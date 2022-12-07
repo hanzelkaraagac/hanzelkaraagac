@@ -2,7 +2,7 @@
 #### I am Hanzel from Turkey, I do content on QA Engineer and Development.I really enjoy learning Java
 ![QA Engineer and Development](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Hanzel+from+Turkey.;I+do+content +on+QA+Engineer+and+Development.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Hanzel+from+Turkey.;I+do+content+on+QA+Engineer+and+Development.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)
  
 ## Skills: Software Test Engineer | Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 

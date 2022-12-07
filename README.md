@@ -12,3 +12,5 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzelkaraagac&show_icons=true)  
 
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abat01&show_icons=true&locale=en&layout=compact" alt="hanzelkaraagac" /></p>
+

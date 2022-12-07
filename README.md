@@ -1,9 +1,9 @@
 ![QA Engineer and Development](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
 ## Hanzel Karaagac
-#### I am Hanzel from Turkey, I do content on QA Engineer and Development.I really enjoy learning Java
+#### I am Hanzel from Turkey, I do content on QA Engineer.I really enjoy learning Java
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Hanzel+from+Turkey.;I+do+content+on+QA+Engineer+and+Development.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Hanzel+from+Turkey.;I+do+content+on+QA+Engineer.;I+really+enjoy+learning+Java;I+am+sharing+my+projects+in+here;)
  
 ## Skills: Full Stack Automation Engineer | Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 <h3 align="left">Languages and Tools:</h3>

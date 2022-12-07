@@ -14,7 +14,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzelkaraagac&show_icons=true)  
 
-/></a>&nbsp;&nbsp;&nbsp;	
-
 
 ![](./profile-3d-contrib/profile-green-animate.svg)

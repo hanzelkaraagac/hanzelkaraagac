@@ -12,5 +12,6 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzelkaraagac&show_icons=true)  
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abat01&show_icons=true&locale=en&layout=compact" alt="hanzelkaraagac" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abat01&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br/> 
 

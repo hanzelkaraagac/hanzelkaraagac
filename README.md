@@ -15,4 +15,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzelkaraagac&show_icons=true)  
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg) 

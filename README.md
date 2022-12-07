@@ -3,7 +3,7 @@
 ![QA Engineer and Development](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
 
 
-## Skills: Software Test Engineer | Java | Selenium | Cucumber | JIRA | SQL | JDBC
+## Skills: Software Test Engineer | Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 
 
 

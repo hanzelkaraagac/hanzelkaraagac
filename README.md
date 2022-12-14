@@ -7,7 +7,6 @@
 ## Skills: Java | Selenium | Cucumber | JIRA | SQL | JDBC | LAMBDA
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>

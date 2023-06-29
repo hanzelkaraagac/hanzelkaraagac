@@ -108,9 +108,9 @@ jobs:
 ### 🔥 &nbsp; My Stats :
 
 <p align="center">
-  <img height="150" width="150" src="left.webp">
+  <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
-  <img height="150" width="150" src="right.webp">
+  <img height="150" width="150" src="WEBP/right.webp">
 </p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 

@@ -4,7 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
 
 
-
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
 

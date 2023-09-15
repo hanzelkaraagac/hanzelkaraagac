@@ -19,7 +19,7 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<a href="https://discord.com/servers/software-library-1030166206025568356">
+<a href="https://discord.gg/hanzelkaraagac">
 <img align="center" width="400" src="https://user-images.githubusercontent.com/113600705/224335498-a95d1c63-017f-4ebd-a68b-dd88b0ba94fc.png" />
 <strong> Click here to join our Discord server ⬅️ </a>
 

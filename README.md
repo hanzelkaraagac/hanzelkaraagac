@@ -20,7 +20,7 @@
 -->
 
 <a href="https://discord.gg/hanzelkaraagac">
-<img align="center" width="400" src="https://user-images.githubusercontent.com/113600705/224335498-a95d1c63-017f-4ebd-a68b-dd88b0ba94fc.png" />
+<img align="center" width="400" src="https://github.com/hanzelkaraagac/hanzelkaraagac/assets/113600705/b3b51605-2d54-4d4f-b071-32325b922eeb" />
 <strong> Click here to join our Discord server ⬅️ </a>
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
